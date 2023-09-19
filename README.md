@@ -9,3 +9,7 @@ Welcome to my repository! In this `README.md` file, I'd like to share an article
 ## Why it's Interesting
 
 This comic humorously captures the common experience of software developers, including me. when they encounter their own code after some time. It's a reminder of how our perspectives on code can change and how we often become more understanding of the decisions we made in the past.
+
+# Comment
+
+I am too sleepy to read the article, but slay we love it bestie
